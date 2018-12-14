@@ -1,0 +1,19 @@
+{
+  "name": "tutorialbuildingawebsitewithreactandaspnetcore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/HelloWorld.js",
+  "scripts": {
+    "start:dev": "webpack-dev-server --hot"
+  },
+  "author": "Leon",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack-dev-server": "^3.1.10"
+  },
+  "dependencies": {
+    "path": "^0.12.7",
+    "webpack": "^4.27.1",
+    "webpack-cli": "^3.1.2"
+  }
+}
